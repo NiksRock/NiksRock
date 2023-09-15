@@ -38,8 +38,8 @@
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niksrock&show_icons=true&locale=en&layout=compact" alt="niksrock" /></p>
 ---
-[![](https://visitcount.itsvg.in/api?id=Niksrock&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=niksrock&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api?username=Niksrock&theme=dark&hide_border=false&include_all_commits=false&count_private=false)https://github-readme-stats.vercel.app/api?username=Niksrock&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="niksrock" />
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
