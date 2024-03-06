@@ -1,5 +1,5 @@
-<h2 align="left">Hi👋!  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ${\textsf{\color{#569cd6}I am a skilled}}$  ${\textsf{\color{#4ec9b0}Software Engineer}}$   ${\textsf{\color{#569cd6}with a passion for crafting innovative solutions in the digital world. With 4 years📅 of hands-on experience in React.js and Java technologies,}}$
-I've honed my abilities to turn complex ideas into elegant, user-friendly applications. My commitment to staying at the forefront of technology and my problem-solving prowess make me an asset in any development team. I'm on a quest for new challenges and opportunities to push the boundaries of what technology can achieve.
+<h2 align="left">Hi👋!  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ${\textsf{\color{#569cd6}I am a skilled}}$  ${\textsf{\color{#4ec9b0}Software Engineer}}$   ${\textsf{\color{#569cd6}with a passion for crafting innovative solutions in the digital world. With 4 years📅 of hands-on experience in React.js and }}$${\textsf{\color{#569cd6} Java technologies,
+I've honed my abilities to turn complex ideas into elegant, user-friendly applications. My commitment to staying at the forefront of technology}}$ and my problem-solving prowess make me an asset in any development team. I'm on a quest for new challenges and opportunities to push the boundaries of what technology can achieve.
 </br></br>
 Let's create the future together!" 🚀💻🌟 |</h3></h2>
 
