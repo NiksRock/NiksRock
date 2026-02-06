@@ -1,45 +1,159 @@
-<h2 align="left">Hi👋!</h2> 
+<!-- ===================================== -->
+<!-- 🚀 Nikunj Patel | GitHub Profile README -->
+<!-- ===================================== -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a skilled `software Engineer` with a passion for crafting innovative solutions in the digital world. With `4 years 📅` of hands-on experience in `React.js` and Java technologies, 
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#4FC3F7;">Nikunj Patel</span>
+</h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've honed my abilities to turn complex ideas into elegant, user-`friendly` applications. My commitment to staying at the forefront of technology and my problem-solving prowess make me an asset in any development team. I'm on a quest for new `challenges` and `opportunities` to push the boundaries of what technology can achieve.  
+<h3 align="center">
+  ⚡ Senior Frontend Architect | React • Next.js • Micro-Frontends • Edge Platforms
+</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Building+Enterprise-Grade+Frontend+Platforms;Micro-Frontends+%7C+Next.js+%7C+TypeScript;Edge-Optimized+Web+Experiences;AI-Augmented+Frontend+Engineering" />
+</p>
 
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-# 📊 GitHub Stats:<br/>
-
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niksrock&show_icons=true&locale=en&layout=compact" alt="niksrock" /></p>
 ---
-<img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=niksrock&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api?username=Niksrock&theme=dark&hide_border=false&include_all_commits=false&count_private=false)https://github-readme-stats.vercel.app/api?username=Niksrock&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="niksrock" />
- 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###
+## ⚡ About Me
+
+- 🏗️ Architecting scalable frontend ecosystems  
+- 🚀 Specialized in **React + Next.js + Module Federation**  
+- 📦 Building reusable UI platforms via **Storybook + Private NPM Packages**  
+- 🌍 Obsessed with **Performance + Web Vitals + Edge Runtime**  
+- 🤖 Exploring **AI workflows inside engineering pipelines**
+
+---
+
+## 🧰 Current Stack (2026 Ready)
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/NestJS-111111?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Turborepo-111111?style=for-the-badge&logo=turborepo&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-111111?style=for-the-badge&logo=graphql&logoColor=E10098"/>
+
+</p>
+
+---
+
+## 🏗️ What I'm Building in 2026
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧩 ATOM Pro Platform  
+⚡ Micro-Frontend ecosystem with Module Federation  
+📦 Nx Monorepo + Shared UI Packages  
+🚀 Config-driven deployment architecture  
+
+</td>
+<td width="50%">
+
+### 🧠 AI-Augmented Engineering  
+🤖 Copilot Agent Mode workflows  
+🔍 AI-based PR reviews & CI quality gates  
+⚡ Automated UI regression pipelines  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🕸️ WASM Experiments  
+Exploring WebAssembly for:  
+- heavy computations  
+- client-side processing  
+- ultra-fast rendering  
+
+</td>
+<td width="50%">
+
+### 🌍 Edge Runtime Systems  
+Deploying Next.js apps with:  
+- Edge Config  
+- Streaming SSR  
+- Low latency personalization  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 Active Experiments (Click to Expand)
+
+<details>
+  <summary>⚡ Micro-Frontend Architecture</summary>
+
+- Module Federation for independent deployments  
+- Shared Header/Sidebar federated packages  
+- Scaling UI teams without bottlenecks  
+
+</details>
+
+<details>
+  <summary>🚀 Performance & Web Vitals</summary>
+
+- Lazy hydration + streaming SSR  
+- Bundle splitting strategies  
+- Observability with Grafana + RUM  
+
+</details>
+
+<details>
+  <summary>🤖 AI + Frontend Future</summary>
+
+- Prompt-to-component workflows  
+- AI-powered design system generation  
+- Autonomous release validation agents  
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NiksRock&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiksRock&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NiksRock&theme=onestar&no-frame=true&row=1&margin-w=10"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nikunj-patel-1aa949156">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://github.com/NiksRock">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="mailto:nikunjpatel1581996@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> ✨ “2026 is the year of vibe coding — but scalable architecture still wins.”  
+🚀 Let’s build systems that look beautiful *and* survive production.
