@@ -45,7 +45,7 @@
 
 ## 🏗️ What I'm Building in 2026
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -118,24 +118,6 @@ Deploying Next.js apps with:
 
 </details>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NiksRock&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiksRock&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NiksRock&theme=onestar&no-frame=true&row=1&margin-w=10"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
