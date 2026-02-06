@@ -146,12 +146,12 @@ Deploying Next.js apps with:
 </picture>
 
 ---
-
-## 🌈 3D Contribution Graph (Next Level)
+## 🌈 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/NiksRock/NiksRock/blob/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/NiksRock/NiksRock/output/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
+
 
 ---
 
