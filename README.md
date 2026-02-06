@@ -43,6 +43,23 @@
 
 ---
 
+## 📊 GitHub Performance Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NiksRock&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=NiksRock&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiksRock&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## 🏗️ What I'm Building in 2026
 
 <table align="center">
@@ -118,6 +135,25 @@ Deploying Next.js apps with:
 
 </details>
 
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NiksRock/NiksRock/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NiksRock/NiksRock/blob/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/NiksRock/NiksRock/blob/output/github-snake.svg" />
+</picture>
+
+---
+
+## 🌈 3D Contribution Graph (Next Level)
+
+<p align="center">
+  <img src="https://github.com/NiksRock/NiksRock/blob/output/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -134,14 +170,6 @@ Deploying Next.js apps with:
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NiksRock/NiksRock/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NiksRock/NiksRock/blob/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/NiksRock/NiksRock/blob/output/github-snake.svg" />
-</picture>
 
 ---
 
