@@ -117,16 +117,48 @@ Deploying Next.js apps with:
 
 </details>
 
+--- 
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <em>Watching my commits evolve into production-grade systems 🚀</em>
+</p>
+
+<br/>
+
+<!-- Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/NiksRock/NiksRock/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/NiksRock/NiksRock/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/NiksRock/NiksRock/output/github-snake-dark.svg"
+      width="100%" />
+  </picture>
+</p>
+
+<br/>
+
+<!-- Ocean GIF Variant -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/NiksRock/NiksRock/output/ocean.gif"
+    alt="Snake Ocean Animation"
+    width="85%"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4FC3F7,100:f095ff&height=2&section=footer" />
+</p>
+
 ---
 
-## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/NiksRock/NiksRock/output/github-snake-dark.svg" />
-  
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/NiksRock/NiksRock/output/github-snake.svg" /> 
-</picture>
 
 
  
