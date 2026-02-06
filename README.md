@@ -128,7 +128,7 @@ Deploying Next.js apps with:
     srcset="https://raw.githubusercontent.com/NiksRock/NiksRock/output/github-snake.svg" />
   
   <img alt="GitHub Contribution Snake" 
-    src="https://raw.githubusercontent.com/NiksRock/NiksRock/output/github-snake.svg" />
+     srcset="https://raw.githubusercontent.com/NiksRock/NiksRock/output/github-snake-dark.svg" />
 </picture>
 
 
