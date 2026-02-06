@@ -40,25 +40,7 @@
 <img src="https://img.shields.io/badge/GraphQL-111111?style=for-the-badge&logo=graphql&logoColor=E10098"/>
 
 </p>
-
----
-
-## 📊 GitHub Performance Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiksRock&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=NiksRock&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiksRock&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
+ 
 
 ## 🏗️ What I'm Building in 2026
 
@@ -145,16 +127,7 @@ Deploying Next.js apps with:
   <img alt="GitHub Contribution Snake" src="https://github.com/NiksRock/NiksRock/blob/output/github-snake.svg" />
 </picture>
 
----
-## 🌈 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NiksRock/NiksRock/output/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
-
----
-
+ 
 ## 🌐 Connect With Me
 
 <p align="center">
