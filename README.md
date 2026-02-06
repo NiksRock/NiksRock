@@ -135,6 +135,14 @@ Deploying Next.js apps with:
   </a>
 </p>
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NiksRock/NiksRock/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NiksRock/NiksRock/blob/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/NiksRock/NiksRock/blob/output/github-snake.svg" />
+</picture>
+
 ---
 
 > ✨ “2026 is the year of vibe coding — but scalable architecture still wins.”  
