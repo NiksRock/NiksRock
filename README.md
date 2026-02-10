@@ -8,7 +8,7 @@
   👋 Hi, I'm <span style="color:#4FC3F7;">Nikunj Patel</span>
 </h1> 
 <h3 align="center">
-  ⚡ ${\textsf{\color{lightgreen}Senior Frontend Architect}}$ • ${\textsf{\color{red}React}}$ • ${\textsf{\color{blue}Next.js}}$ • ${\textsf{\color{gray}Micro-Frontends}}$ • ${\textsf{\color{pink}Edge Platforms}}$ 
+  ⚡ ${\textsf{\color{lightgreen}Senior Frontend Architect}}$ | ${\textsf{\color{red}React}}$ • ${\textsf{\color{blue}Next.js}}$ • ${\textsf{\color{gray}Micro-Frontends}}$ • ${\textsf{\color{pink}Edge Platforms}}$ 
 </h3> 
 
 <p align="center">
