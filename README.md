@@ -2,13 +2,14 @@
 <!-- 🚀 Nikunj Patel | GitHub Profile README -->
 <!-- ===================================== -->
 
+
+
 <h1 align="center">
   👋 Hi, I'm <span style="color:#4FC3F7;">Nikunj Patel</span>
-</h1>
-
+</h1> 
 <h3 align="center">
-  ⚡ Senior Frontend Architect | React • Next.js • Micro-Frontends • Edge Platforms
-</h3>
+  ⚡ ${\textsf{\color{lightgreen}Senior Frontend Architect}}$ • ${\textsf{\color{red}React}}$ • ${\textsf{\color{blue}Next.js}}$ • ${\textsf{\color{gray}Micro-Frontends}}$ • ${\textsf{\color{pink}Edge Platforms}}$ 
+</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Building+Enterprise-Grade+Frontend+Platforms;Micro-Frontends+%7C+Next.js+%7C+TypeScript;Edge-Optimized+Web+Experiences;AI-Augmented+Frontend+Engineering" />
