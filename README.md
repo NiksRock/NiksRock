@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=820&lines=Full-Stack+Engineer+%7C+7%2B+Years;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+NestJS;Micro-Frontends+%E2%80%A2+GraphQL+BFF+%E2%80%A2+Strapi+CMS;PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+Stripe+%E2%80%A2+AWS;600K%2B+Agents+%E2%80%A2+5M%2B+Users+%E2%80%A2+Zero+Downtime;Building+systems+that+survive+production+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+7%2B+Years;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+NestJS;Micro-Frontends+%E2%80%A2+GraphQL+BFF+%E2%80%A2+Strapi+CMS;PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+Stripe+%E2%80%A2+AWS;600K%2B+Agents+%E2%80%A2+5M%2B+Users+%E2%80%A2+Zero+Downtime;Building+systems+that+survive+production+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 ---
@@ -317,9 +317,9 @@ Lazy hydration + Streaming SSR + ISR · Rollup tree-shaking (−25% dead code) �
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=NiksRock&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff&cache_seconds=86400"/>
+<img height="160em" src="https://github-readme-stats.demolab.com/api?username=NiksRock&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff"/>
 &nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiksRock&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=ffffff&cache_seconds=86400"/>
+<img height="160em" src="https://github-readme-stats.demolab.com/api/top-langs/?username=NiksRock&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=ffffff"/>
 
 <br/>
 
